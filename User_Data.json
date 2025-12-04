@@ -1,0 +1,16 @@
+{
+  "1056924456": {
+    "notifications": {
+      "enabled": true,
+      "interval_h": 2,
+      "last_sent": "2025-12-04 16:24:43"
+    },
+    "city": "Новобессергеневка",
+    "lat": 47.216809,
+    "lon": 38.854273,
+    "last_city": "Краснодар",
+    "last_lat": 45.0352718,
+    "last_lon": 38.9764814,
+    "last_country": "Россия"
+  }
+}
